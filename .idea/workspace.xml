@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb0ca94c-138f-41bb-96ae-e4cbfba3d30e" name="Changes" comment="Aufgabe 2 Markdown">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yannickict&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yannickict/MongoPython.git&quot;,
+    &quot;accountId&quot;: &quot;e835398a-f2de-47d8-8a34-efc116c7ca21&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2wqvBjsOtOxQUzbuxtUpJSu1zfL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Aufgabe1.executor": "Run",
+    "Python.Aufgabe2.executor": "Run",
+    "Python.MongoConnection.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/yanni/Documents/INF/2LJ/m165/MongoPython",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.428" />
+        <option value="bundled-python-sdk-80e8e15d2b92-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.428" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb0ca94c-138f-41bb-96ae-e4cbfba3d30e" name="Changes" comment="" />
+      <created>1746781784881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746781784881</updated>
+      <workItem from="1746781785987" duration="1646000" />
+      <workItem from="1747383261745" duration="144000" />
+      <workItem from="1747383415419" duration="1965000" />
+    </task>
+    <task id="LOCAL-00001" summary="pushing the gitignore">
+      <option name="closed" value="true" />
+      <created>1747383300891</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747383300892</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Venv to Gitignore">
+      <option name="closed" value="true" />
+      <created>1747383390590</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747383390590</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Start of Project">
+      <option name="closed" value="true" />
+      <created>1747383468551</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747383468551</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Made the gitignore correct">
+      <option name="closed" value="true" />
+      <created>1747383561170</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747383561170</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Made the gitignore correct">
+      <option name="closed" value="true" />
+      <created>1747383641901</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747383641901</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Made the gitignore correct">
+      <option name="closed" value="true" />
+      <created>1747383666536</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747383666536</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Markdown File">
+      <option name="closed" value="true" />
+      <created>1747384000577</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747384000577</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Markdown File">
+      <option name="closed" value="true" />
+      <created>1747384005740</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747384005740</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Aufgabe 2 halb fertig + gitignore file angepasst">
+      <option name="closed" value="true" />
+      <created>1747384579570</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1747384579570</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Aufgabe 2 Markdown">
+      <option name="closed" value="true" />
+      <created>1747385163980</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1747385163980</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pushing the gitignore" />
+    <MESSAGE value="Added Venv to Gitignore" />
+    <MESSAGE value="Start of Project" />
+    <MESSAGE value="Made the gitignore correct" />
+    <MESSAGE value="Markdown File" />
+    <MESSAGE value="Aufgabe 2 halb fertig + gitignore file angepasst" />
+    <MESSAGE value="Aufgabe 2 Markdown" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aufgabe 2 Markdown" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python$MongoConnection.coverage" NAME="MongoConnection Coverage Results" MODIFIED="1746781790732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$Aufgabe1.coverage" NAME="Aufgabe1 Coverage Results" MODIFIED="1746782647748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MongoPython$Aufgabe1.coverage" NAME="Aufgabe1 Coverage Results" MODIFIED="1747383836541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MongoPython$Aufgabe2.coverage" NAME="Aufgabe2 Coverage Results" MODIFIED="1747385006939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
