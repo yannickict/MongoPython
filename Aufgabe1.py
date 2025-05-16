@@ -1,12 +1,7 @@
-""" Aufgabe 1.1
-
-"""
 
 # Aufgabe1.2
 from pymongo import MongoClient
 from MongoConnection import client
-
-print(client.server_info())
 
 dblist = client.list_database_names()
 
@@ -20,6 +15,3 @@ if "admin" in dblist:
 else:
     print("Database does not exist.")
 
-"""Ausgabe
-
-"""
