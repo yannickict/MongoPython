@@ -25,3 +25,51 @@ social_media
 admin
 local
 Database exists.
+
+# Aufgabe 2 (Output)
+
+Databases
+
+- airb
+- db_restaurants
+- sample_mflix
+- admin
+- local
+
+Select Database: airb
+
+airb
+
+Collections
+
+- listingsAndReviews
+
+Select Collection: listingsAndReviews
+
+airb.listingsAndReviews
+
+Documents
+
+- 10082307
+- 10082422
+- ...
+- 9795621
+- 9846545
+- 9895628
+- 9907103
+- 67f8dbd03fcac5e13acb0ce2
+
+Select Document: 67f8dbd03fcac5e13acb0ce2
+
+airb.listingsAndReviews.67f8dbd03fcac5e13acb0ce2
+
+name: Yannicks Unterkunft
+property_type: Apartment
+bed_type: Full Bed
+bathrooms: 1.0
+amenities: ['Wifi', 'Kitchen', 'Heating', 'Essentials']
+price: 95.00
+host: {'host_name': 'Yannick Blatty'}
+address: {'street': 'St, Antonstrasse 7', 'country': 'Switzerland', 'country_code': 'CH'}
+
+Press any button to return
