@@ -103,3 +103,15 @@ Küche (optional): Italian
  Quality Italian Steakhouse, Küche:Italian
  Tommys Famous Cheesesteaks & Pizza, Küche:Pizza/Italian
  Davio'S Northern Italian Steakhouse, Küche:Italian
+
+## Aufgabe 3.5 (Output)
+ Name (optional): Steak
+Küche (optional): Italian
+1. Bistecca Fiorentina Steak, Küche: Italian
+2. 5 Star Cheesesteak And Pizza, Küche: Pizza/Italian
+3. Quality Italian Steakhouse, Küche: Italian
+4. Tommys Famous Cheesesteaks & Pizza, Küche: Pizza/Italian
+5. Davio'S Northern Italian Steakhouse, Küche: Italian
+Restaurant für Bewertung auswählen: 1
+Bewertung: A
+Bewertung gespiechert
