@@ -73,3 +73,33 @@ host: {'host_name': 'Yannick Blatty'}
 address: {'street': 'St, Antonstrasse 7', 'country': 'Switzerland', 'country_code': 'CH'}
 
 Press any button to return
+
+
+# Aufgabe 3
+
+## Aufgabe 3.1 (Output)
+Bronx
+Brooklyn
+Manhattan
+Missing
+Queens
+Staten Island
+
+
+## Aufgabe 3.2 (Output)
+Juice It Health Bar, score: 75.00
+Golden Dragon Cuisine, score: 73.00
+Palombo Pastry Shop, score: 69.00
+
+
+## Aufgabe 3.3 (Output)
+Subway, [-73.96511939999999, 40.75532949999999]
+
+## Aufgabe 3.4 (Output)
+Name (optional): Steak
+Küche (optional): Italian
+ Bistecca Fiorentina Steak, Küche:Italian
+ 5 Star Cheesesteak And Pizza, Küche:Pizza/Italian
+ Quality Italian Steakhouse, Küche:Italian
+ Tommys Famous Cheesesteaks & Pizza, Küche:Pizza/Italian
+ Davio'S Northern Italian Steakhouse, Küche:Italian
